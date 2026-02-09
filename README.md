@@ -279,9 +279,8 @@ Este software es propiedad de LASSRIVER NS y se proporciona bajo licencia comerc
 
 Para reportar issues o solicitar características:
 - **Issues**: [GitHub Issues](https://github.com/LASSRIVER-NS/platform/issues)
-- **Discord**: [Comunidad LASSRIVER](https://discord.gg/lassriver)
-- **Email**: tech-support@lassriver.ns
-- **Emergency**: +1-800-LASSRIVER
+- **Email**: lassomoluna9@gmail.com
+- **Emergency**: +57-3127748804      +57-3185181402
 
 ---
 
