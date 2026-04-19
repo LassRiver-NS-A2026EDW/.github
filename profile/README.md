@@ -69,7 +69,7 @@ We deliver end-to-end systems that combine modern web experiences with high-perf
       </ul>
     </td>
     <td width="50%">
-      <h3>2) Agile Reading Skills Development Platform</h3>
+      <h3>2) Agile Reading Skills Development Platform ✅</h3>
       <p>
         A learning platform that improves <b>speed</b>, <b>comprehension</b>, and <b>consistency</b>
         through structured practice and data-driven feedback. It adapts training modules based on performance.
