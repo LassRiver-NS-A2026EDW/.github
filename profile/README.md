@@ -25,7 +25,7 @@ Org: LassRiver-NS-A2026EDW
     <img alt="Status" src="https://img.shields.io/badge/status-active-success" />
     <img alt="Focus" src="https://img.shields.io/badge/focus-AI%20%26%20Big%20Data-blue" />
     <img alt="Frontend" src="https://img.shields.io/badge/frontend-Next.js-black" />
-    <img alt="Backend" src="https://img.shields.io/badge/backend-ASP.NET%20Core-purple" />
+    <img alt="Backend" src="https://img.shields.io/badge/backend-Spring-Boot%20-purple" />
   </p>
 
 </div>
